@@ -1,4 +1,5 @@
 {
     "name": "statd3",
+    "main": "src/setup.js",
     "version": "1.0.0"
 }
